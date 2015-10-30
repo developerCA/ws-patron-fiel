@@ -1,0 +1,8 @@
+E:\ContratosFW\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+E:\ContratosFW\WcfService1\WcfService1\bin\WcfService1.dll
+E:\ContratosFW\WcfService1\WcfService1\bin\WcfService1.pdb
+E:\ContratosFW\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+E:\ContratosFW\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+E:\ContratosFW\WcfService1\WcfService1\bin\EntityFramework.dll
+E:\ContratosFW\WcfService1\WcfService1\bin\EntityFramework.xml
+E:\ContratosFW\WcfService1\WcfService1\bin\WcfService1.dll.config
