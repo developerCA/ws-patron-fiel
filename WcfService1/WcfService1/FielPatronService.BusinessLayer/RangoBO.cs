@@ -12,6 +12,8 @@ namespace WcfService1.FielPatronService.BusinessLayer
         public static List<RangoEntity> GetAll()
         {
             return RangoDAL.GetAll();
+
+
         }
 
         public  RangoEntity GetById(string id)
